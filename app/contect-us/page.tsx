@@ -6,7 +6,7 @@ const ContectUs = () => {
     
               <div className="grid gap-16 sm:grid-cols-1 my-28 md:grid-cols-2 lg:grid-cols-3">
                 <div className=" shadow-lg shadow-gray-500 hover:scale-105  border-solid    text-center py-20 pt-2 px-5 rounded-2xl ">
-                  <h1 className="text-xl font-bold py-8">phone:</h1>
+                  <h1 className="text-xl font-bold py-8">Phone:</h1>
                   <h2 className="text-xl font-bold py-4">03046453405</h2>
                 </div>
                 <div className=" shadow-lg shadow-gray-500 hover:scale-105  border-solid   text-center py-20 pt-2 px-5 rounded-2xl ">
