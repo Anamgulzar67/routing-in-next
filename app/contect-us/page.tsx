@@ -16,7 +16,6 @@ const ContectUs = () => {
           <h1 className="text-xl font-bold py-8">LinkedIn:</h1>
           <h2 className=" font-bold py-4">
             <Link href="https://www.linkedin.com/feed/">
-              {" "}
               www.linkedin.com/in/anam-gulzar-techie
             </Link>
           </h2>
