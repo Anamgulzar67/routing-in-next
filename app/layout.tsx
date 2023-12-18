@@ -21,6 +21,7 @@ export default function RootLayout({
       <body className={inter.className}>
       <header className="bg-gray-400 text-white  px-16 py-5 flex gap-8">
           <Link href="/">Home</Link>
+          <Link href="/todo">To Do App</Link>
            <Link href="/about">About</Link>
            <Link href="/services">Services</Link>
           <Link href="/contect-us">Contact Us</Link>
